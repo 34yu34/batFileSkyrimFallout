@@ -1,0 +1,23 @@
+player.additem 0001f66b 10000; .308 Round
+player.additem 0004ce87 10000; .38 Round
+player.additem 0009221c 10000; .44 Round
+player.additem 0001f66a 10000; .45 Round
+player.additem 0001f279 10000; .50 caliber Round
+player.additem 0001f276 10000; .10mm Round
+player.additem 0001f66c 10000; .5mm Round
+player.additem 0001f278 10000; .5.56mm Round
+player.additem 0001f673 10000; Shotgun shell
+player.additem 000fe269 10000; Railway spike
+player.additem 000e6b2e 10000; Fat Man
+player.additem 000caba3 10000; Missile
+player.additem 0018abe2 10000; Cyro Cell
+player.additem 000c1897 10000; Energy Cell
+player.additem 0001dbb7 10000; Plasma Catridge
+player.additem 00075fe4 10000; Fusion Core
+player.additem 000c1897 10000; Fusion Cell
+player.additem 0018abdf 10000; 2mm EC
+player.additem 000df279 10000; Gamma Round
+player.additem 001025aa 10000; Alien Blaster Round
+player.additem 001025ae 10000; Flare
+player.additem 000e942c 10000; Junk
+player.additem 000fd11c 10000; Cannonball

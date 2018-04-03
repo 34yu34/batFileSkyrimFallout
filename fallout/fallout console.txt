@@ -1,0 +1,499 @@
+For example, to collect 1,000 of all necessary crafting materials, copy/paste the following and add it to the file:
+
+player.additem 001BF72D 1000; Acid
+player.additem 001BF72E 1000; Adhesive
+player.additem 0006907A 1000; Aluminum
+player.additem 001BF72F 1000; Antiseptic
+player.additem 000AEC5C 1000; Asbestos
+player.additem 000AEC5B 1000; Ballistic Fiber
+player.additem 000AEC5D 1000; Bone
+player.additem 000AEC5E 1000; Ceramic
+player.additem 0006907B 1000; Circuitry
+player.additem 000AEC5F 1000; Cloth
+player.additem 00106D99 1000; Concrete
+player.additem 0006907C 1000; Copper
+player.additem 000AEC60 1000; Cork
+player.additem 0006907D 1000; Crystal
+player.additem 001BF730 1000; Fertilizer
+player.additem 00069087 1000; Fiber Optics
+player.additem 000AEC61 1000; Fiberglass
+player.additem 0006907E 1000; Gears
+player.additem 00069085 1000; Glass
+player.additem 000AEC62 1000; Gold
+player.additem 000AEC63 1000; Lead
+player.additem 000AEC64 1000; Leather
+player.additem 00069086 1000; Nuclear Material
+player.additem 001BF732 1000; Oil
+player.additem 0006907F 1000; Plastic
+player.additem 00106D98 1000; Rubber
+player.additem 00069081 1000; Screw
+player.additem 000AEC66 1000; Silver
+player.additem 00069082 1000; Spring
+player.additem 000731A4 1000; Steel
+player.additem 000731A3 1000; Wood
+If the file name is called "test", simply type bat test in-game to run the script.
+
+More Batch files:
+
+All AmmoEdit
+Provides you with 10000 ammo for all weapon types.
+
+ # Guns
+ player.additem 0001f66b 10000; .308 Round
+ player.additem 0004ce87 10000; .38 Round
+ player.additem 0009221c 10000; .44 Round
+ player.additem 0001f66a 10000; .45 Round
+ player.additem 0001f279 10000; .50 caliber Round
+ player.additem 0001f276 10000; .10mm Round
+ player.additem 0001f66c 10000; .5mm Round
+ player.additem 0001f278 10000; .5.56mm Round
+ player.additem 0001f673 10000; Shotgun shell
+ player.additem 000fe269 10000; Railway spike
+ # Explosives
+ player.additem 000e6b2e 10000; Fat Man
+ player.additem 000caba3 10000; Missile
+ # Energy
+ player.additem 0018abe2 10000; Cyro Cell
+ player.additem 000c1897 10000; Energy Cell
+ player.additem 0001dbb7 10000; Plasma Catridge
+ player.additem 00075fe4 10000; Fusion Core
+ player.additem 000c1897 10000; Fusion Cell
+ player.additem 0018abdf 10000; 2mm EC
+ player.additem 000df279 10000; Gamma Round
+ player.additem 001025aa 10000; Alien Blaster Round
+ # Other
+ player.additem 001025ae 10000; Flare
+ player.additem 000e942c 10000; Junk
+ player.additem 000fd11c 10000; Cannonball
+ # Created by MrFunreal
+More Batch Files:
+
+Maxed CharacterEdit
+Provides you with maxed special and perks (if each level of each perk isn't added it can bug out and only give you the final perk of each perk set):
+
+# Created by Kishin/Shinigami Lucy
+# SPECIALs
+player.setav strength 10;
+player.setav perception 10;
+player.setav endurance 10;
+player.setav charisma 10;
+player.setav intelligence 10;
+player.setav agility 10;
+player.setav luck 10;
+# Iron Fist
+player.addperk 1dafe; 1
+player.addperk 1daff; 2
+player.addperk 1db00; 3
+player.addperk 65e42; 4
+player.addperk 65e43; 5
+# Big Leagues
+player.addperk 4a0b5; 1
+player.addperk e36fc; 2
+player.addperk e36fd; 3
+player.addperk e36fe; 4
+player.addperk 65e05; 5
+# Armorer
+player.addperk 4b254; 1
+player.addperk 4b255; 2
+player.addperk 4b256; 3
+player.addperk 1797ea; 4
+# Blacksmith
+player.addperk 4b253; 1
+player.addperk 4b26a; 2
+player.addperk 264d8; 3
+# Heavy Gunner
+player.addperk 4a0d6; 1
+player.addperk 4a0d7; 2
+player.addperk 4a0d8; 3
+player.addperk 65e2a; 4
+player.addperk 65e2b; 5
+#Strong Back
+player.addperk 4b24e; 1
+player.addperk 65e5b; 2
+player.addperk 65e5c; 3
+player.addperk 1d2489; 4
+player.addperk 030423a3; 5 #farHarbor
+# Steady Aim
+player.addperk 1d2487; 1
+player.addperk 1d2488; 2
+player.addperk 06028a23; 3 #NukaWorld
+# Basher
+player.addperk 65df9; 1
+player.addperk 65dfa; 2
+player.addperk 65dfb; 3
+player.addperk 65dfc; 4
+# Rooted
+player.addperk 1d247f; 1
+player.addperk 1d2480; 2
+player.addperk 1d2482; 3
+# Pain Train
+player.addperk 4d89b; 1
+player.addperk 65e3c; 2
+player.addperk 65e3d; 3
+# Pickpocket
+player.addperk 4d88a; 1
+player.addperk e3702; 2
+player.addperk e3703; 3
+player.addperk 1d248f; 4
+# Rifleman
+player.addperk 4a0b6; 1
+player.addperk 4a0b7; 2
+player.addperk 4a0b8; 3
+player.addperk 6fa20; 4
+player.addperk 65e52; 5
+# Awareness
+player.addperk d2287; 1
+player.addperk 06028a22; 2 #NukaWorld
+# Locksmith
+player.addperk 523ff; 1
+player.addperk 52400; 2
+player.addperk 52401; 3
+player.addperk 1d246a; 4
+# Demolition Expert
+player.addperk 4c923; 1
+player.addperk 4c924; 2
+player.addperk 4c925; 3
+player.addperk 1d246a; 4
+# Night Person
+player.addperk 4c93b; 1
+player.addperk 1d2495; 2
+player.addperk 03043222; 3 #FarHarbor
+# Refractor
+player.addperk ca99d; 1
+player.addperk ca99e; 2
+player.addperk ca99f; 3
+player.addperk 65e4b; 4
+player.addperk 65e4c; 5
+# Sniper
+player.addperk 4c92a; 1
+player.addperk 4c92b; 2
+player.addperk 4c92c; 3
+# Penetrator
+player.addperk 24aff; 1
+player.addperk 1d2477; 2
+# Concentrated Fire
+player.addperk 4d890; 1
+player.addperk 1d2459; 2
+player.addperk 1d245a; 3
+# Toughness
+player.addperk 4a0ab; 1
+player.addperk 4a0ae; 2
+player.addperk 4a0af; 3
+player.addperk 65e5d; 4
+player.addperk 65e5e; 5
+# Lead Belly
+player.addperk 4a0b9; 1
+player.addperk 24b00; 2
+player.addperk 24b01; 3
+# Lifegiver
+player.addperk 4a0cf; 1
+player.addperk 1d2465; 2
+player.addperk 1d2467; 3
+# Chem Resistant
+player.addperk 4a0d5; 1
+player.addperk 65e0c; 2
+# Aquaboy (switch "#" depending on character gender)
+# player.addperk e36f9; 1
+# player.addperk 1d248d; 2
+# Aquagirl
+player.addperk e9453; 1
+player.addperk 1d248e; 2
+# Rad Resistant
+player.addperk 1d2479; 1
+player.addperk 1d247a; 2
+player.addperk 1d247b; 3
+player.addperk 030423a4; 4 #FarHarbor
+#Adamantium Skeleton
+player.addperk 4c92d; 1
+player.addperk 24afd; 2
+player.addperk 24afe; 3
+# Cannibal
+player.addperk 4b259; 1
+player.addperk 1d1a62; 2
+player.addperk 1d1a63; 3
+# Ghoulish
+player.addperk 4d89e; 1
+player.addperk 65e22; 2
+player.addperk 65e23; 3
+player.addperk 06028a25; 4 #NukaWorld
+# Solar Powered
+player.addperk 4d8a7; 1
+player.addperk 1d2484; 2
+player.addperk 1d2485; 3
+# Cap Collector
+player.addperk 1d2456; 1
+player.addperk d75e2; 2
+player.addperk 1d2457; 3
+# Lady Killer (switch "#" depending on gender)
+# player.addperk 4a0d4; 1
+# player.addperk 65e33; 2
+# player.addperk 65e34; 3
+# Black Widow
+player.addperk 19aa3; 1
+player.addperk 65e31; 2
+player.addperk 65e32; 3
+# Lone Wanderer
+player.addperk 1d246b; 1
+player.addperk 1d246d; 2
+player.addperk 1d246e; 3
+player.addperk 030365f8 ; 4 #FarHarbor
+# Attack Dog
+player.addperk 4b26d; 1
+player.addperk 1d244d; 2
+player.addperk 1d244e; 3
+player.addperk 06029b25 ; 4 #NukaWorld
+# Animal Friend
+player.addperk 1e67f; 1
+player.addperk 4a0d9; 2
+player.addperk 1d2450; 3
+# Local Leader
+player.addperk 4d88d; 1
+player.addperk 1d2468; 2
+# Party Boy (switch "#" depending on gender)
+# player.addperk 4d887; 1
+# player.addperk 1d2473; 2
+# player.addperk 1d2474; 3
+# Party Girl
+player.addperk 4d888; 1
+player.addperk 1d2475; 2
+player.addperk 1d2476; 3
+# Inspirational
+player.addperk 1d2461; 1
+player.addperk 1d2462; 2
+player.addperk 1d2463; 3
+# Wasteland Whisperer
+player.addperk 1d248a; 1
+player.addperk 1d2462; 2
+player.addperk 1d2463; 3
+# Intimidation
+player.addperk 1d02b5; 1
+player.addperk 1d02b6; 2
+player.addperk 1d02b7; 3
+# V.A.N.S.
+player.addperk 207d1; 1
+player.addperk 060296c0 ; 2 #NukaWorld
+# Medic
+player.addperk 4c926; 1
+player.addperk 6fa1c; 2
+player.addperk 6fa1d; 3
+player.addperk 65e35; 4
+# Gun Nut
+player.addperk 4a0da; 1
+player.addperk 4a0db; 2
+player.addperk 4a0dc; 3
+player.addperk 16578e; 4
+# Hacker
+player.addperk 52403; 1
+player.addperk 52404; 2
+player.addperk 52405; 3
+player.addperk 1d245d; 4
+# Scrapper
+player.addperk 65e65; 1
+player.addperk 1d2483; 2
+player.addperk 03 ; 3 #FarHarbor
+# Science!
+player.addperk 264d9; 1
+player.addperk 264da; 2
+player.addperk 264db; 3
+player.addperk 16578f; 4
+# Chemist
+player.addperk e36ff; 1
+player.addperk e3700; 2
+player.addperk e3701; 3
+player.addperk 1d2458; 4
+# Robotics Expert
+player.addperk 4d889; 1
+player.addperk 65e64; 2
+player.addperk 1acf96; 3
+# Nuclear Physicist
+player.addperk 1d246f; 1
+player.addperk 1d2470; 2
+player.addperk 1d2471; 3
+# Nerd Rage!
+player.addperk 4d886; 1
+player.addperk 65e37; 2
+player.addperk 65e38; 3
+# Gunslinger
+player.addperk 4a09f; 1
+player.addperk 4a0a9; 2
+player.addperk 4a0aa; 3
+player.addperk 6fa1e; 4
+player.addperk 65e24; 5
+# Commando
+player.addperk 4a0c5; 1
+player.addperk 4a0c6; 2
+player.addperk 4a0c7; 3
+player.addperk 6fa24; 4
+player.addperk 65e0d; 5
+# Sneak
+player.addperk 4c935; 1
+player.addperk b9882; 2
+player.addperk b9883; 3
+player.addperk b9884; 4
+player.addperk b9881; 5
+# Mister Sandman
+player.addperk 4b258; 1
+player.addperk 1d2490; 2
+player.addperk 1d2491; 3
+# Action Boy (switch "#" depending on gender)
+# player.addperk 4d869; 1
+# player.addperk 65df5; 2
+# player.addperk 03034e7f ; 3 #FarHarbor
+# Action Girl
+player.addperk 4d872; 1
+player.addperk 65df6; 2
+player.addperk 03034e80 ; 3 #FarHarbor
+# Moving Target
+player.addperk 4ddee; 1
+player.addperk 1d2492; 2
+player.addperk 1e0791; 3
+# Ninja
+player.addperk 4d8a6; 1
+player.addperk e3704; 2
+player.addperk e3705; 3
+# Quick Hands
+player.addperk 221fc; 1
+player.addperk 1d2478; 2
+player.addperk 06 ; 3 #NukaWorld
+# Blitz
+player.addperk 1d2451; 1
+player.addperk 1d2452; 2
+# Gun Fu
+player.addperk 4d881; 1
+player.addperk 1d244f; 2
+player.addperk 1d245c; 3
+# Fortune Finder
+player.addperk 4c942; 1
+player.addperk 1acf98; 2
+player.addperk 1acf99; 3
+player.addperk 215cd4; 4
+# Scrounger
+player.addperk 4a0b0; 1
+player.addperk 1acf9a; 2
+player.addperk 1acf9b; 3
+player.addperk 1eb99c; 4
+# Bloody Mess
+player.addperk 4a0bb; 1
+player.addperk 1d2453; 2
+player.addperk 1d2454; 3
+player.addperk 1f418e; 4
+# Mysterious Stranger
+player.addperk 4c929; 1
+player.addperk 1d2493; 2
+player.addperk 1d2494; 3
+player.addperk 06029b26; 4 #NukaWorld
+# Idiot Savant
+player.addperk 1d245e; 1
+player.addperk 1d245f; 2
+player.addperk 1d2460; 3
+# Better Criticals
+player.addperk 4d87a; 1
+player.addperk 65e03; 2
+player.addperk 65e04; 3
+player.addperk 03034e81; 4 #FarHarbor
+# Critical Banker
+player.addperk 4c91f; 1
+player.addperk 4c920; 2
+player.addperk 4c921; 3
+# Grim Reaper's Sprint
+player.addperk 4d8a2; 1
+player.addperk 65e3f; 2
+player.addperk 65e3f; 3
+# Four Leaf Clover
+player.addperk 4d895; 1
+player.addperk 65e20; 2
+player.addperk 65e21; 3
+player.addperk 1d245b; 4
+# Ricochet
+player.addperk 1d247c; 1
+player.addperk 1d247d; 2
+player.addperk 1d247e; 3
+Debugging and mappingEdit
+tmm 1 - Fully activates all Pip-Boy map markers, making them both visible on the map and available as fast travel destinations. Note, however, that it does not update the "locations discovered" statistic in the Pip-Boy 3000. tmm 1,0,0 should allow you to see unknown locations without fast travel.
+tgm - Toggles "god mode" which gives the player invincibility to damage, radiation and oxygen underwater. It also gives unlimited ammo, carrying capacity and AP (reloading does use AP with some weapons) and stops item degradation. In addition, it enables building items at Settlements without using resources.
+tim - Toggle Immortal Mode. Character will still take damage, but their health will never reach zero. No radiation invincibility, no infinity AP and ammo.
+tcl - Toggles clipping, which enables the player to move in any direction, including through solid objects and/or empty space. (A.K.A. "noclip"). It allows you to "fly" over an area and view it or get unstuck from a location. Make sure to click on an empty space to clear any IDs that are being used in the console for this to work, "prid" with no parameters also serves the same purpose.
+fov Changes the Field of View. The higher the number the more of a fish eye effect. Defualt is set at 70. Example: fov 90 (type the number twice if it reverts when you close the console 'fov 90 90')
+tfc - Toggles freefly camera. tfc 1 freezes all animations, useful for screenshots.
+sucsm 20 - Changes the Freefly camera movementl speed. 20 is default.
+tm - Toggles UI Overlay (including console, type TM again to show.)
+cl - Enable/Disable/Edit the lighting emitted from the character.
+gr - Enable/Disable/Edit God-Ray
+coc <cell edid> - Teleports the player to the specified cell. For example, to teleport to the Pre-War Sanctuary Hills from the beginning of the game type coc PreWarSanctuaryExt01 Red Rocket gas station which is next to Sanctuary would be "coc RedRocketExt".
+scof <filename> - Writes console output to the specified file.
+bat <filename> - Executes specified list of commands as defined by a text file (.txt)
+help <itemName> <int from 0 to 4> - Searches for documentation in the help files. Good for hunting down item codes, perk lists etc.
+Example: "help leather 0" - This will list all items with "Leather" in the name. Use PageUp and PageDown keys to scroll.
+tg; - Toggle "Grass Display"
+QuestsEdit
+setstage <QuestID> <Quest stage number> – Moves the quest in your quest log to the indicated quest stage. Recommended command for moving past bugged sections of quests rather than forcing the entire quest to become completed.
+sqt – Generates a list of current quest targets. Can also be used to find Quest IDs.
+completequest <QuestID> – Completes the given quest.
+movetoqt <QuestID> – Moves the player to the target of the current quest (if there is one marked).
+completeallobjectives <QuestID> - Completes all current objectives for the given quest.
+Inventory manipulationEdit
+player.additem <base_id> <amount> - Add any item to your inventory. Use the "help" command to find an item name (see above).
+player.removeitem <base_id> <amount> Remove any item from your inventory.
+player.showinventory or player.inv - Lists Inventory with object IDs.
+player.equipitem <object_id> equip item from the inventory; useful for equipping items that don't appear in Pip-Boy inventory.
+NPC ManipulationEdit
+placeatme <#######> Replace ####### with item or NPC ID to spawn it next to the targeted object/actor. You may also write player.placeatme.
+showinventory Lists NPC's Inventory with object IDs.
+resurrect Resurrects NPC.
+killall - Kills all NPCs and creatures in the area except for companions and "essential" NPCs that are too important to die. They will instead slump down until healed with a Stimpack.
+openactorcontainer 1 - Opens any NPC's Inventory as if they were a container. Equipped clothes do not show.
+tai - Toggles the AI on an NPC. This basically freezes them until toggled again.
+sexchange - Changes the sex of the NPC. Please note that this does not always come out comely. (WARNING: Only use this on disposable NPCs)
+getav CA_affinity Get Companion Affinity Level (Events usually triggered at 250, 500, 750, 1000 with 1000 being max)
+setav CA_affinity Sets Companion Affinity Level
+modav CA_affinity Modifies Companion Affinity Level
+Stats and character manipulationEdit
+player.setav <variable> <amount> - Sets actor values to a given amount (S.P.E.C.I.A.L., skills, resistances, actionpoints, health, etc). Using setav will affect the perk chart and unlock new perks for the player to select from.
+player.modav <variable> <amount> - Modify an actor value. S.P.E.C.I.A.L. set using "modav" will change in the Pip Boy but will not affect the Perk chart - use "setav" for this instead. The value will max out at its normal maximum value (100 for skills, 85 for resistances, 10 for S.P.E.C.I.A.L., etc.). A negative number lowers the variable.
+player.forceav <variable> <amount> - Set a value player.advlevel 100)
+player.addperk - Adds a specified perk. For a list of perks see Fallout 4 perks
+player.removeperk - Removes a specified perk.
+player.sexchange - Change player character's gender
+player.setlevel <level> - Set level. Note that this cannot be used to level your character down.
+advancepcskill <advskill> - Advance a point on a specific skill branch.
+showlooksmenu <#> 1 or SLM <#> 1 - Edit player or npc appearance. # - player or NPC ID. WARNING use <TFC 1> to move camera close to face and freeze game so characters wont move around
+getgs <string> - Show game settings value.
+player.resethealth - Refills health bar, leaves radiation sickness.
+WarningsEdit
+Be careful when using setscale to large numbers like 10. You may seem big and powerful, but a very small drop-off (in comparison to your size) will be fatal. Cliffs look very tiny from 50 feet up, but still kill you as if you were normal size. Additionally cells will still only load as if you were normal size, and moving through un-spawned cells can crash the game. It is suggested to use the no-clip command 'tcl' to prevent falling.
+Refrain from using ForceAV instead of ModAV, especially if you want to revert the change later. ForceAV overrides the automatic calculation of actor values, and nothing will affect that actor value again aside from another ForceAV or a ModAV. For example, with a Carry Weight of 200, a ForceAV carryweight 5000 will give the player character a carrying capacity of 5000. Getting an extra point of strength will not change that capacity, even if you ForceAV the Carry Weight back to 200 before getting the additional point of strength. On the other hand, a ModAV carryweight 5000 will result in a carrying capacity of 5200, getting an additional point of Strength will make that increase appropriately, and a subsequent ModAV carryweight -5000 will place the value back where it should be based on Strength.
+Items & world manipulationEdit
+This is easiest if you first click on something in the world with the console open, to target it.
+
+Disable- Removes the selected object.
+
+Attachmod- Adds a mod onto the selected item.
+
+Removemod- Removes a mod from the selected item.
+
+coc qasmoke- Transports you to a room with access to all items in the game.Use "coc RedRocketExt" to get back to the world.
+
+setScale- Set the scale of an item in game. It's usually required to "disable" then "enable" the item for the new scaling to fully take place.
+
+getScale- Prints out the scale of the item in the console.
+
+unlock- Unlock doors, safes, terminals or any other locked container; you can of course also lock. Adding a number after lock sets the difficulty to that of the Lockpick skill. For example, lock 50 would create an Average lock, lock 0 a very easy, and lock 255 would create a lock that requires a key and so on. Unlock will not work on doors that are "locked from the other side".
+
+activate - Activate an item, say a door, that is normally operated by a switch
+
+markfordelete - Similar to disable, will delete any item from the game, removing it permanently. It may disappear immediately, or it may require you to exit and re-enter the area.
+
+setopenstate - Similar to activate, but will open and close it without the player having to use it 0 = close 2 = open.
+
+setownership - Make the item yours. (for instance a cabinet or a bed, but if you try to make a safe or cash register and things like that yours, you will still lose Karma and there's almost no point.)
+
+player.placeatme <base_id> <stack amount> <quality> - Place an item next to the player; for many items only a stack amount of 1 is valid
+
+player.moveto <ref_id> - Move the player to a nearby item. Player needs to be within the same location cell.
+
+set timescale to <scale> - Sets the timescale, the ratio determining how fast game time moves relative to real time; the default setting is 30. For example, setting the timescale to 1 would cause one second to pass in game time for every second in real time.
+
+Warning: Altering the timescale will cause the game to crash if NPCs spawned using placeleveledactoratme or movetoplayer enter into combat.
+set gamehour to <time> - Sets the gamehour to the entered value. Change applies only when player unpauses the game. Before making any changes to the gamehour using GetCurrentTime might be useful.
+
+fw <ID>- changes weather. The following are confirmed to work:

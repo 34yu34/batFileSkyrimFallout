@@ -1,0 +1,70 @@
+# remember they are from hearth fire
+player.additem 03003043 10000;clay
+player.additem 03005A69 10000;glass
+player.additem 0300303F 10000;goat horn
+player.additem 03003011 10000;hinge
+player.additem 03003035 10000;iron fitting
+player.additem 0300300F 10000;Nails
+player.additem 03003012 10000;Lock
+player.additem 0300306C 10000;Quarried stone
+player.additem 0300300E 10000;Sawn log
+player.additem 03005A68 10000;Straw
+player.additem c8911 10000;Amulet of Akatosh
+player.additem cc848 10000;Amulet of Arkay
+player.additem c8915 10000;Amulet of Dibella
+player.additem c8917 10000;Amulet of Julianos
+player.additem c8919 10000;Amulet of Kynareth
+player.additem c891b 10000;Amulet of Mara
+player.additem cc844 10000;Amulet of Stendarr
+player.additem cc846 10000;Amulet of Talos
+player.additem 878bb 10000;Amulet of Zenithar
+player.additem 5ad93 10000;Corrundum ingot
+player.additem db8a2 10000;Dwarven ingot
+player.additem 5ad9d 10000;Ebony ingot
+player.additem 5ad9e 10000;Gold ingot
+player.additem 5ace4 10000;Iron ingot
+player.additem 5ada1 10000;Malachite ingot
+player.additem 5ad9f 10000;Moonstone ingot
+player.additem 5ad99 10000;Orichalcum ingot
+player.additem 5ada0 10000;Quicksilver ingot
+player.additem 5ace3 10000;Silver ingot
+player.additem 5ace5 10000;Steel ingot
+player.additem 3ad5b 10000;Deadra heart
+player.additem db5d2 10000;Leather
+player.additem 800e4 10000;Leather strip
+player.additem 3ad52 10000;Bear Pelt
+player.additem 3ad53 10000;Cave Bear Pelt
+player.additem 3ad57 10000;Chaurus Chitin
+player.additem 3ad8f 10000;Cow Hide
+player.additem 3ad90 10000;Elk Hide
+player.additem d284d 10000;Deer Hide
+player.additem d4b35 10000;Fox Pelt
+player.additem 3ad8e 10000;Goat Hide
+player.additem 3ad93 10000;Horse Hide
+player.additem 3ad75 10000;Ice Fox Pelt
+player.additem 3ad6d 10000;Sabre Cat Pelt
+player.additem 6bc04 10000;Sabre Cat Tooth
+player.additem 6bc0a 10000;Large Antlers
+player.additem 6bc0b 10000;Small Antlers
+player.additem 3ad6e 10000;Sabre Cat Snow Pelt
+player.additem 3ad54 10000;Snow Bear Pelt
+player.additem 3ad74 10000;Wolf Pelt
+player.additem d4be7 10000;Snow Fox Pelt
+player.additem 6bc00 10000;Mudcrab Chitin
+player.additem 3ad70 10000;Slaughterfish Scales
+player.additem 3ad68 10000;Horker Tusk
+player.additem 2e4ff 10000;GrandSoulGem(grand)
+player.additem 3ada4 10000;DragonBones
+player.additem 3ada3 10000;Dragonscales
+player.additem 63b42 10000;Ruby
+player.additem 63b43 10000;Emerald
+player.additem 63b44 10000;Saphire
+player.additem 63b45 10000;Garnet
+player.additem 63b46 10000;Amesthys
+player.additem 63b47 10000;Diamond
+player.additem 6851e 10000;Flawless Amesthys
+player.additem 6851f 10000;Flawless Diamond
+player.additem 68520 10000;Flawless Emerald
+player.additem 68521 10000;Flawless Garnet
+player.additem 68522 10000;Flawless Ruby
+player.additem 68523 10000;Flawless Sapphire

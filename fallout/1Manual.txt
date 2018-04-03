@@ -1,0 +1,152 @@
+player.placeatme 00178B52;Barter Bobblehead
+player.placeatme 00178B53;Big Guns Bobblehead
+player.placeatme 00178B56;Energy Weapons Bobblehead
+player.placeatme 00178B57;Explosive Bobblehead
+player.placeatme 00178B59;Lock Picking Bobblehead
+player.placeatme 00178B5B;Medicine Bobblehead
+player.placeatme 00178B5C;Melee Bobblehead
+player.placeatme 00178B5E;Repair Bobblehead
+player.placeatme 00178B5F;Science Bobblehead
+player.placeatme 00178B60;Small Guns Bobblehead
+player.placeatme 00178B61;Sneak Bobblehead	
+player.placeatme 00178B62;Speech Bobblehead
+player.placeatme 00178B64;Unarmed Bobblehead
+
+#Covert Operations Manual
+player.placeatme 0008E740
+player.placeatme 0008E73F
+player.placeatme 0008E73E
+player.placeatme 0008E73D
+player.placeatme 0008E73C
+player.placeatme 0008E73B
+player.placeatme 0008E73A
+player.placeatme 0008E739
+player.placeatme 0008E738
+player.placeatme 0008E737
+#Asoundingly Awesome Tales
+player.placeatme 001696A7
+player.placeatme 001696A6
+player.placeatme 001696A5
+player.placeatme 001696A4
+player.placeatme 001696A3
+player.placeatme 001696A2
+player.placeatme 001696A1
+player.placeatme 001696A0
+player.placeatme 0016969F
+player.placeatme 0016969E
+player.placeatme 0016969D
+player.placeatme 0016969C
+player.placeatme 0016969B
+player.placeatme 0016969A
+#grognak the barbarian
+player.placeatme 0008E745
+player.placeatme 0008E74A
+player.placeatme 0008E749
+player.placeatme 0008E748
+player.placeatme 0008E747
+player.placeatme 0008E746
+player.placeatme 0008E744
+player.placeatme 0008E743
+player.placeatme 0008E742
+player.placeatme 0008E741
+#guns and bullet
+player.placeatme 00092A8E
+player.placeatme 00092A8C
+player.placeatme 00092A8B
+player.placeatme 00092A8A
+player.placeatme 00092A89
+player.placeatme 00092A88
+player.placeatme 00092A87
+player.placeatme 00092A83
+player.placeatme 00092A8F
+player.placeatme 00092A8D
+#Hot Rodder
+player.placeatme 00185CD1
+player.placeatme 00185CBF
+player.placeatme 00180A24
+#la coiffe
+player.placeatme 0009473E
+player.placeatme 001C63ED
+#live and love
+player.placeatme 001C2E28
+player.placeatme 001C2E26
+player.placeatme 001C2E24
+player.placeatme 00185CCD
+player.placeatme 00185CC2
+player.placeatme 00184DC6
+player.placeatme 00184DB9
+player.placeatme 00184DA7
+player.placeatme 001D1CD6
+#Massachusetts surgical journal
+player.placeatme 0008E751
+player.placeatme 0008E750
+player.placeatme 0008E74F
+player.placeatme 0008E74E
+player.placeatme 0008E74D
+player.placeatme 0008E74C
+player.placeatme 0008E74B
+player.placeatme 001A7C24
+player.placeatme 001D1F55
+player.placeatme 001D1F53
+#picket fence
+player.placeatme 00185CEE
+player.placeatme 00185CDD
+player.placeatme 00184DB7
+player.placeatme 00184D8B
+player.placeatme 00180A36
+#Robco Fun
+player.placeatme 001C1418
+player.placeatme 00184DC4
+player.placeatme 00184DB2
+player.placeatme 00184DA1
+#taboo tattoos
+player.placeatme 00185CE2
+player.placeatme 00184DC0
+player.placeatme 00184DA5
+player.placeatme 00184D9B
+player.placeatme 00180A2A
+#Tales of a junktown jerky vendor
+player.placeatme 00092A6A
+player.placeatme 00092A69
+player.placeatme 00092A68
+player.placeatme 00092A67
+player.placeatme 00092A66
+player.placeatme 00092A65
+player.placeatme 00092A64
+player.placeatme 00092A63
+#telsa science magazine
+player.placeatme 00092A80
+player.placeatme 00092A7F
+player.placeatme 00092A7E
+player.placeatme 00092A7D
+player.placeatme 00092A7C
+player.placeatme 00092A7B
+player.placeatme 00092A7A
+player.placeatme 00092A79
+player.placeatme 00092A78
+#total hack
+player.placeatme 94736
+player.placeatme 94735
+player.placeatme 94734
+#tumblers today
+player.placeatme 00092A72
+player.placeatme 00092A71
+player.placeatme 00092A70
+player.placeatme 00092A6F
+player.placeatme 00092A6D
+#unstoppales
+player.placeatme 00135F07
+player.placeatme 00135F06
+player.placeatme 00135F05
+player.placeatme 00135F04
+player.placeatme 00135F03
+#Wasteland Survival Guide
+player.placeatme 00185CD8
+player.placeatme 00185CCA
+player.placeatme 00185CC4
+player.placeatme 00185CBD
+player.placeatme 00185CBA
+player.placeatme 00135F0E
+player.placeatme 00135F0D
+player.placeatme 00135F0A
+player.placeatme 0008E75E

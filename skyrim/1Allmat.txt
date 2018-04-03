@@ -1,0 +1,29 @@
+player.additem 5ad93 10000;Corrundum ingot
+player.additem db8a2 10000;Dwarven ingot
+player.additem 5ad9d 10000;Ebony ingot
+player.additem 5ad9e 10000;Gold ingot
+player.additem 5ace4 10000;Iron ingot
+player.additem 5ada1 10000;Malachite ingot
+player.additem 5ad9f 10000;Moonstone ingot
+player.additem 5ad99 10000;Orichalcum ingot
+player.additem 5ada0 10000;Quicksilver ingot
+player.additem 5ace3 10000;Silver ingot
+player.additem 5ace5 10000;Steel ingot
+player.additem 3ad5b 10000;Deadra heart
+player.additem db5d2 10000;Leather
+player.additem 800e4 10000;Leather strip
+player.additem 2e4ff 10000;GrandSoulGem(grand)
+player.additem 3ada4 10000;DragonBones
+player.additem 3ada3 10000;Dragonscales
+player.additem 63b42 10000;Ruby
+player.additem 63b43 10000;Emerald
+player.additem 63b44 10000;Saphire
+player.additem 63b45 10000;Garnet
+player.additem 63b46 10000;Amesthys
+player.additem 63b47 10000;Diamond
+player.additem 6851e 10000;Flawless Amesthys
+player.additem 6851f 10000;Flawless Diamond
+player.additem 68520 10000;Flawless Emerald
+player.additem 68521 10000;Flawless Garnet
+player.additem 68522 10000;Flawless Ruby
+player.additem 68523 10000;Flawless Sapphire

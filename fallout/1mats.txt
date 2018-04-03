@@ -1,0 +1,31 @@
+player.additem 001BF72D 1000; Acid
+player.additem 001BF72E 1000; Adhesive
+player.additem 0006907A 1000; Aluminum
+player.additem 001BF72F 1000; Antiseptic
+player.additem 000AEC5C 1000; Asbestos
+player.additem 000AEC5B 1000; Ballistic Fiber
+player.additem 000AEC5D 1000; Bone
+player.additem 000AEC5E 1000; Ceramic
+player.additem 0006907B 1000; Circuitry
+player.additem 000AEC5F 1000; Cloth
+player.additem 00106D99 1000; Concrete
+player.additem 0006907C 1000; Copper
+player.additem 000AEC60 1000; Cork
+player.additem 0006907D 1000; Crystal
+player.additem 001BF730 1000; Fertilizer
+player.additem 00069087 1000; Fiber Optics
+player.additem 000AEC61 1000; Fiberglass
+player.additem 0006907E 1000; Gears
+player.additem 00069085 1000; Glass
+player.additem 000AEC62 1000; Gold
+player.additem 000AEC63 1000; Lead
+player.additem 000AEC64 1000; Leather
+player.additem 00069086 1000; Nuclear Material
+player.additem 001BF732 1000; Oil
+player.additem 0006907F 1000; Plastic
+player.additem 00106D98 1000; Rubber
+player.additem 00069081 1000; Screw
+player.additem 000AEC66 1000; Silver
+player.additem 00069082 1000; Spring
+player.additem 000731A4 1000; Steel
+player.additem 000731A3 1000; Wood

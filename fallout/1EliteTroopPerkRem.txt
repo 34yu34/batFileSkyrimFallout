@@ -1,0 +1,169 @@
+# Armorer
+player.removeperk 4b254; 1
+player.removeperk 4b255; 2
+player.removeperk 4b256; 3
+player.removeperk 1797ea; 4
+# Blacksmith
+player.removeperk 4b253; 1
+player.removeperk 4b26a; 2
+player.removeperk 264d8; 3
+#Strong Back
+player.removeperk 4b24e; 1
+player.removeperk 65e5b; 2
+player.removeperk 65e5c; 3
+player.removeperk 1d2489; 4
+# Steady Aim
+player.removeperk 1d2487; 1
+player.removeperk 1d2488; 2
+# Basher
+player.removeperk 65df9; 1
+player.removeperk 65dfa; 2
+player.removeperk 65dfb; 3
+player.removeperk 65dfc; 4
+# Rifleman
+player.removeperk 4a0b6; 1
+player.removeperk 4a0b7; 2
+player.removeperk 4a0b8; 3
+player.removeperk 6fa20; 4
+player.removeperk 65e52; 5
+# Locksmith
+player.removeperk 523ff; 1
+player.removeperk 52400; 2
+player.removeperk 52401; 3
+player.removeperk 1d246a; 4
+# Demolition Expert
+player.removeperk 4c923; 1
+player.removeperk 4c924; 2
+player.removeperk 4c925; 3
+player.removeperk 65e13; 4
+# Refractor
+player.removeperk ca99d; 1
+player.removeperk ca99e; 2
+player.removeperk ca99f; 3
+player.removeperk 65e4b; 4
+player.removeperk 65e4c; 5
+# Sniper
+player.removeperk 4c92a; 1
+player.removeperk 4c92b; 2
+player.removeperk 4c92c; 3
+# Penetrator
+player.removeperk 24aff; 1
+player.removeperk 1d2477; 2
+# Concentrated Fire
+player.removeperk 4d890; 1
+player.removeperk 1d2459; 2
+player.removeperk 1d245a; 3
+# Toughness
+player.removeperk 4a0ab; 1
+player.removeperk 4a0ae; 2
+player.removeperk 4a0af; 3
+player.removeperk 65e5d; 4
+player.removeperk 65e5e; 5
+# Aquaboy (switch "#" depending on character gender)
+ player.removeperk e36f9; 1
+ player.removeperk 1d248d; 2
+# Aquagirl
+# player.removeperk e9453; 1
+# player.removeperk 1d248e; 2
+# Rad Resistant
+player.removeperk 1d2479; 1
+player.removeperk 1d247a; 2
+player.removeperk 1d247b; 3
+#Adamantium Skeleton
+player.removeperk 4c92d; 1
+player.removeperk 24afd; 2
+player.removeperk 24afe; 3
+# Ghoulish
+player.removeperk 4d89e; 1
+player.removeperk 65e22; 2
+player.removeperk 65e23; 3
+# Lady Killer (switch "#" depending on gender)
+ player.removeperk 4a0d4; 1
+ player.removeperk 65e33; 2
+ player.removeperk 65e34; 3
+#Black Widow
+# player.removeperk 19aa3; 1
+# player.removeperk 65e31; 2
+# player.removeperk 65e32; 3
+# Lone Wanderer
+player.removeperk 1d246b; 1
+player.removeperk 1d246d; 2
+player.removeperk 1d246e; 3
+# Attack Dog
+player.removeperk 4b26d; 1
+player.removeperk 1d244d; 2
+player.removeperk 1d244e; 3
+# Inspirational
+player.removeperk 1d2461; 1
+player.removeperk 1d2462; 2
+player.removeperk 1d2463; 3
+# V.A.N.S.
+player.removeperk 207d1; 1
+# Medic
+player.removeperk 4c926; 1
+player.removeperk 6fa1c; 2
+player.removeperk 6fa1d; 3
+player.removeperk 65e35; 4
+# Gun Nut
+player.removeperk 4a0da; 1
+player.removeperk 4a0db; 2
+player.removeperk 4a0dc; 3
+player.removeperk 16578e; 4
+# Hacker
+player.removeperk 52403; 1
+player.removeperk 52404; 2
+player.removeperk 52405; 3
+player.removeperk 1d245d; 4
+# Scrapper
+player.removeperk 65e65; 1
+player.removeperk 1d2483; 2
+# Science!
+player.removeperk 264d9; 1
+player.removeperk 264da; 2
+player.removeperk 264db; 3
+player.removeperk 16578f; 4
+# Nerd Rage!
+player.removeperk 4d886; 1
+player.removeperk 65e37; 2
+player.removeperk 65e38; 3
+# Gunslinger
+player.removeperk 4a09f; 1
+player.removeperk 4a0a9; 2
+player.removeperk 4a0aa; 3
+player.removeperk 6fa1e; 4
+player.removeperk 65e24; 5
+# Commando
+player.removeperk 4a0c5; 1
+player.removeperk 4a0c6; 2
+player.removeperk 4a0c7; 3
+player.removeperk 6fa24; 4
+player.removeperk 65e0d; 5
+# Action Boy (switch "#" depending on gender)
+ player.removeperk 4d869; 1
+ player.removeperk 65df5; 2
+# Action Girl
+# player.removeperk 4d872; 1
+# player.removeperk 65df6; 2
+# Moving Target
+player.removeperk 4ddee; 1
+player.removeperk 1d2492; 2
+player.removeperk 1e0791; 3
+# Quick Hands
+player.removeperk 221fc; 1
+player.removeperk 1d2478; 2
+# Blitz
+player.removeperk 1d2451; 1
+player.removeperk 1d2452; 2
+# Gun Fu
+player.removeperk 4d881; 1
+player.removeperk 1d244f; 2
+player.removeperk 1d245c; 3
+# Scrounger
+player.removeperk 4a0b0; 1
+player.removeperk 1acf9a; 2
+player.removeperk 1acf9b; 3
+player.removeperk 1eb99c; 4
+# Idiot Savant
+player.removeperk 1d245e; 1
+player.removeperk 1d245f; 2
+player.removeperk 1d2460; 3

@@ -1,0 +1,137 @@
+player.setlevel 1
+player.setav destruction 100
+player.setav restoration 15
+player.setav conjuration 100
+player.setav alteration 15
+player.setav illusion 15
+player.setav heavyarmor 100
+player.setav lightarmor 15
+player.setav block 65
+player.setav onehanded 35
+player.setav twohanded 100
+player.setav marksman 15
+player.setav enchanting 100
+player.setav smithing 100
+player.setav alchemy 15
+player.setav lockpicking 15
+player.setav pickpocket 15
+player.setav sneak 15
+player.setav speechcraft 100
+#perks
+#alchemy
+player.addperk 000BE127;alchemist 1
+player.addperk 000C07CA;alchemist 2
+player.addperk 000C07CB;alchemist 3
+player.addperk 000C07CC;alchemist 4
+player.addperk 000C07CD;alchemist 5
+player.addperk 00058215;physician
+player.addperk 00058216;benefactor
+player.addperk 00058217;poisoner
+player.addperk 00058218;experimenter 1
+player.addperk 00105F2A;experimenter 1
+player.addperk 00105F2B;experimenter 1
+player.addperk 00105F2F;Concentrated Poison
+player.addperk 00105F2E;Green Thumb
+player.addperk 00105F2C;Snakeblood
+player.addperk 0005821D;Purity
+; Block
+player.addperk 000BCCAE;ShieldWall 1
+player.addperk 00079355;ShieldWall 2
+player.addperk 00079356;ShieldWall 3
+player.addperk 00079357;ShieldWall 4
+player.addperk 00079358;ShieldWall 5
+player.addperk 000D8C33;quickReflexes
+; Conjuration
+player.addperk 000F2CA7;novice
+player.addperk 000153CE;apprentice
+player.addperk 000C44BD;adept
+player.addperk 000C44BC;expert
+player.addperk 000C44BB;master
+player.addperk 000C44BE;dual
+player.addperk 000640B3;mysticBinding
+player.addperk 00105F30;Summoner 1
+player.addperk 00105F31;Summoner 2
+player.addperk 000D799E;soul stealer
+player.addperk 000D799C;Oblivion binding
+player.addperk 000581DD;necromancy
+player.addperk 000CB419;atromancy
+player.addperk 000CB41A;elementalpotency
+player.addperk 000581DE;darksouls
+player.addperk 000D5F1C;twinsouls
+; Destruction
+player.addperk 000C44C2;novice
+player.addperk 000F2CA8;apprentice
+player.addperk 000C44BF;adept
+player.addperk 000C44C0;expert
+player.addperk 000C44C1;master
+player.addperk 000153CF;dual
+player.addperk 000153D2;impact
+player.addperk 000581EA;Augmentedfrost 1
+player.addperk 0010FCF9;Augmentedfrost 2
+player.addperk 000F3933;deepfreeze
+; Enchanting
+player.addperk 000BEE97;enchanter 1
+player.addperk 000C367C;enchanter 2
+player.addperk 000C367D;enchanter 3
+player.addperk 000C367E;enchanter 4
+player.addperk 000C367F;enchanter 5
+player.addperk 00058F7C;soulsquezer
+player.addperk 00058F80;fireenchanter
+player.addperk 00058F81;frostenchanter
+player.addperk 00108A44;soulsiphon
+player.addperk 00058F7E;insightfulenchanter
+player.addperk 00058F82;stormenchanter
+player.addperk 00058F7D;corpusenchanter
+player.addperk 00058F7F;extraeffect
+; Heavy Armor
+player.addperk 000BCD2A;juggernaut 1
+player.addperk 0007935E;juggernaut 2
+player.addperk 00079361;juggernaut 3
+player.addperk 00079362;juggernaut 4
+player.addperk 00079374;juggernaut 5
+player.addperk 00058F6F;wellfitted
+player.addperk 00058F6C;towerofstrenght
+player.addperk 00107832;matchingset
+player.addperk 00058F6D;reflectblow
+player.addperk 00058F6E;fistofsteel
+player.addperk 000BCD2B;cushionned
+player.addperk 00105F33;conditioning
+; Smithing
+player.addperk 000CB40D;steel
+player.addperk 0005218E;arcane
+player.addperk 000CB40F;elven
+player.addperk 000CB414;advance
+player.addperk 000CB411;glass
+player.addperk 000CB40E;dwarven
+player.addperk 000CB410;orcish
+player.addperk 000CB412;ebony
+player.addperk 000CB413;deadric
+player.addperk 00052190;dragon
+; Speechcraft
+player.addperk 000BE128;haggling 1
+player.addperk 000C07CE;haggling 2
+player.addperk 000C07CF;haggling 3
+player.addperk 000C07D0;haggling 4
+player.addperk 000C07D1;haggling 5
+player.addperk 00058F72;bribery
+player.addperk 00058F75;allure
+player.addperk 001090A2;persuasion
+player.addperk 00058F7A;merchant
+player.addperk 00058F7B;investor
+player.addperk 00105F29;intimidation
+player.addperk 00058F79;fence
+player.addperk 001090A5;mastertrader
+; Two-handed
+player.addperk 000BABE8;barbarian 1
+player.addperk 00079346;barbarian 2
+player.addperk 00079347;barbarian 3
+player.addperk 00079348;barbarian 4
+player.addperk 00079349;barbarian 5
+player.addperk 00052D51;championstance
+player.addperk 0003AF83;deepwound 1
+player.addperk 000C1E94;deepwound 2
+player.addperk 000C1E95;deepwound 3
+player.addperk 00052D52;devastatingblow
+player.addperk 000CB407;greatcriticalcharge
+player.addperk 0003AF9E;sweep
+player.addperk 0003AFA7;warmaster
